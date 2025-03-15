@@ -1,6 +1,0 @@
-1.0.1
-8B7924D4CE14F8DD;solazr
-You are using build {0}. This menu was created by Solazr (@solazr) on discord. 
-https://1wjb.com
-UnityTempFile;;UnityTempFile;;3;;7
-NonexistentSampleDetectedMod1;;NonexistentSampleDetectedMod2
