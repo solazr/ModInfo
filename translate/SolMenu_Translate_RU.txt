@@ -4,7 +4,7 @@ Notification;Уведомление
 Mod;Мод
 Build;Строить
 Version;Версия
-ii's Stupid Menu;Глупое меню ii
+SOL Menu;Меню СОЛ
 Stupid;Глупый
 wherever your hand desires;куда пожелает твоя рука
 whoever your hand desires;кого пожелает твоя рука

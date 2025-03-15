@@ -4,7 +4,7 @@ Notification;Kennisgeving
 Mod;Mod
 Build;Bouwen
 Version;Versie
-ii's Stupid Menu;ii's stomme menu
+SOL Menu;SOL-menu
 Stupid;Dom
 wherever your hand desires;waar uw hand maar wenst
 whoever your hand desires;wie je hand maar wil

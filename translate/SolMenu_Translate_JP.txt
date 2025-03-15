@@ -4,7 +4,7 @@ Notification;通知
 Mod;モジュール
 Build;建てる
 Version;バージョン
-ii's Stupid Menu;iiのバカメニュー
+SOL Menu;SOLメニュー
 Stupid;バカ
 wherever your hand desires;あなたの手が望むところならどこでも
 whoever your hand desires;あなたの手が望む人なら誰でも

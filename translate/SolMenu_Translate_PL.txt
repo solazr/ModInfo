@@ -4,7 +4,7 @@ Notification;Powiadomienie
 Mod;mod
 Build;Zbudować
 Version;Wersja
-ii's Stupid Menu;Głupie menu ii
+SOL Menu;Menu SOL
 Stupid;Głupi
 wherever your hand desires;gdziekolwiek zapragnie Twoja ręka
 whoever your hand desires;kogokolwiek zapragnie twoja ręka
